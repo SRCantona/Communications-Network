@@ -1,8 +1,8 @@
 
-# Network Topology Project (CIS 315)
+
 
 ## Project Overview
-This project is part of the Communications & Network Fundamentals (CIS 315) course at Imam Abdulrahman Bin Faisal University. 
+This project is part of the Communications & Network Fundamentals course at Imam Abdulrahman Bin Faisal University. 
 The objective is to design, configure, and test a network topology using Cisco Packet Tracer. 
 The network consists of multiple routers, switches, and end devices connected across different LAN segments. 
 The focus is on implementing basic IP addressing, configuring routing between networks, and ensuring smooth communication between devices.
@@ -10,7 +10,8 @@ The focus is on implementing basic IP addressing, configuring routing between ne
 ## Topology Demonstration
 The following topology was designed and configured as part of the project:
 
-![Network Topology](image.png)
+![image](https://github.com/user-attachments/assets/c6aa947d-7ec5-4b5c-83a5-5f26d103075b)
+
 
 ## Addressing Table
 The addressing table below outlines the IP addresses, subnet masks, and gateway configurations for all devices in the network.
@@ -75,4 +76,3 @@ The addressing table below outlines the IP addresses, subnet masks, and gateway 
 
 ---
 
-Thank you for reviewing the project. If you have any questions or need further assistance with the configuration, feel free to reach out!
